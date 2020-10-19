@@ -4,7 +4,10 @@ namespace Ders1
 {
     class Program
     {
-
+        /// <summary>
+        /// mmm
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             DisplayPicker();
